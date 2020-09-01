@@ -1,0 +1,15 @@
+.App {
+  font-family: OptimusPrinceps;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.html {
+  background-color: red;
+}
+
+@font-face {
+  font-family: OptimusPrinceps;
+  src: url("OptimusPrinceps.ttf");
+}
