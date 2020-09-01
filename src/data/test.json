@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Heal Aid",
+      "type": "Miracle",
+      "desc": "Miracle imparted as charity to those of little faith. A show of tolerance from the Way of White.\n\nSlightly restores HP.\n\nTo use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire."
+    },
+    {
+      "id": "2",
+      "name": "Heal",
+      "type": "Miracle",
+      "desc": "Elementary miracle cast by clerics. Restores HP for self and those in the vicinity.\n\nTo use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire."
+    }
+  ]
+}
